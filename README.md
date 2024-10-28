@@ -20,7 +20,7 @@
 
 ## 🎉 Aperçu de l'Interface
 
-![Interface du Planificateur](https://via.placeholder.com/500x300?text=Image+de+l'interface)
+![Interface du Planificateur](image1.png)
 
 ---
 
