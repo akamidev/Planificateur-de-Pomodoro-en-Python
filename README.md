@@ -35,3 +35,8 @@
    ```bash
    git clone https://github.com/votre_nom_d_utilisateur/WorkCycle.git
    cd WorkCycle
+
+
+### 🛡️ License
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/akamidev/Planificateur-de-Pomodoro-en-Python/blob/main/LICENSE) pour plus de détails.
